@@ -1,7 +1,7 @@
 ## Weather data analysis
 
  - Author: **Adam Abed Abud**
- - Last update: June 9, 2019
+ - Last update: December 26, 2020
 
 Python jupyter notebook for analyzing weather data such as temperature, pressure, humidity, etc.
 
